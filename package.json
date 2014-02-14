@@ -1,0 +1,26 @@
+{
+  "name": "angular-primus",
+  "version": "0.0.0",
+  "description": "An angular service for Primus and Primus-Emitter",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "primus-emitter": "~2.1.0",
+    "primus": "~2.0.2",
+    "protractor": "~0.18.1",
+    "angular": "~1.2.10",
+    "gulp": "~3.5.2",
+    "gulp-browserify": "~0.4.4",
+    "hapi": "~2.3.0",
+    "engine.io": "~0.9.0",
+    "gulp-protractor": "0.0.4",
+    "gulp-util": "~2.2.14",
+    "run-sequence": "~0.3.5"
+  }
+}
